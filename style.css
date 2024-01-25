@@ -1,0 +1,22 @@
+#output{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    border-color: black;
+    border: 1px solid;
+}
+
+#calc{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    border-color: black;
+}
+
+#guess{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    border-color: black;
+    border: 1px solid;
+}
